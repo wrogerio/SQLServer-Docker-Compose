@@ -1,0 +1,6 @@
+Comando para criar o contâiner
+    docker-compose up -d
+
+
+Comando para parar o contâiner
+    docker-compose down -v
